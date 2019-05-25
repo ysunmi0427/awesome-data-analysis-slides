@@ -9,4 +9,5 @@
 | NEXON | 강한별, 편호장 | NDC2018 | [유저 인터뷰 하는 데이터 분석가, 차트 해석하는 UX 리서처](https://www.youtube.com/watch?v=ihi_NJ5MUsA)| | - |
 | 개인 | 김윤기 | [SEF2019](http://sef2019.oig.kr/) | [SW를 독학하는 가장 확실한 방법](https://www.edwith.org/sef-2019/lecture/44871/?fbclid=IwAR1f-XZPY0aNBfVWkotfVP0V6hXm1XZ6GWAZvTNwFVY-_MCFQ1F-bfXx2AQ) | | - |
 | 개인 | 하용호 |  | [데이터는 차트가 아니라 돈이 되어야 한다](https://www.slideshare.net/yongho/ss-52116574) |  | - |
+| UBER | Danny Yuan | QCon.ai 2018 | [Two Effective Algorithms for Time Series Forecasting](https://www.youtube.com/watch?v=VYpAodcdFfA&t=317s) | | [윤선미](https://www.linkedin.com/in/yoonsunmi/) |
 |  |  |  |  | | - |  
