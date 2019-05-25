@@ -7,6 +7,6 @@
 
 ```
 // example
-| Company | Speaker | Conference | [Title](https://www.youtube.com/) | - |
-| Company | Speaker | Conference | [Title](https://speakerdeck.com/) | - |
+| Company | Speaker | Conference | [Title](https://www.youtube.com/) | Reason | - |
+| Company | Speaker | Conference | [Title](https://speakerdeck.com/) | Reason | - |
 ```
