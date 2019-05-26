@@ -13,5 +13,7 @@
 | 개인 | 양승화 |  | [서비스 기획자를 위한 데이터분석 시작하기](https://www.slideshare.net/leoyang991/ss-90038927) | 데이터 분석에 대한 용어와 큰 흐름을 잘 알 수 있음 | [변성윤](https://github.com/zzsza) |  
 | 개인 | 변성윤 |  | [Data Science. Intro](https://www.slideshare.net/zzsza/data-science-intro) | 데이터 사이언스와 관련된 직군 소개 및 공부 컨텐츠 추천 | [변성윤](https://github.com/zzsza) |  
 | 개인 | 변성윤 |  | [기획자, 마케터, 신입 데이터 분석가를 위한 BigQuery의 모든 것](https://www.slideshare.net/zzsza/bigquery-147073606) | BigQuery(SQL) 입문부터 활용에 대한 자료 | [변성윤](https://github.com/zzsza) |  
-| 개인 | 최규민 |  | [강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131) | 일상에서 데이터를 활용해 프로젝트를 진행하는 과정에 대해 재미있게 나와있음 | [변성윤](https://github.com/zzsza) |  
+| 개인 | 최규민 |  | [강남 출근길에 판교/정자역에 내릴 사람 예측하기](https://www.slideshare.net/ssuser2fe594/2107-80754131) | 일상에서 데이터를 활용해 프로젝트를 진행하는 과정에 대해 재미있게 나와있음 | [변성윤](https://github.com/zzsza) |
+| SOCAR | 김상우 | CLOUDERA CONFERENCE 2018 | [HOW TO REDEFINE YOUR BUSINESS WITH AI](https://www.clouderasessionsseoul.com/file/Machine_Learning_3.pdf) | 모빌리티 기업에서 다루는 가장 최신의 데이터 분석 문제에 대해서 알 수 있음 | - |
+| 개인 | Seth Stephens-Davidowitz | TEDxWarwick | [The Secrets in Our Google Searches](https://www.youtube.com/watch?v=IaFQVNuAA3w) | 구글 검색 결과를 분석해 『모두 거짓말을 한다』를 쓴 저자의 테드톡 | - |   
 |  |  |  |  | | - |  
