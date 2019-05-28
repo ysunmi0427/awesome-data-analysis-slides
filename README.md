@@ -1,5 +1,7 @@
 # 당신이 알고 있는 좋은 데이터 분석 슬라이드가 있나요?
 
+분석 사례를 중심으로 한 기술 블로그의 글도 환영합니다.
+
 목록을 추가하고 싶으신 분은 [Contribution guide](https://github.com/ysunmi0427/awesome-data-analysis-slides/blob/master/contributing.md)에 맞춰 Pull Request를 보내주세요.
 
 ## 목록
