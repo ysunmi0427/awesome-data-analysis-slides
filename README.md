@@ -2,7 +2,7 @@
 
 분석 사례를 중심으로 한 기술 블로그의 글도 환영합니다.
 
-목록을 추가하고 싶으신 분은 [Contribution guide](https://github.com/ysunmi0427/awesome-data-analysis-slides/blob/master/contributing.md)에 맞춰 Pull Request를 보내주세요.
+목록을 추가하고 싶으신 분은 [Contribution guide](https://github.com/ysunmi0427/awesome-data-analysis-slides/blob/master/pull_request_template.md)에 맞춰 Pull Request를 보내주세요.
 
 ## 목록
 | 회사명 | 발표자 | 발표장소 |제목 | 추천이유 | 추천인 |  
