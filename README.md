@@ -19,4 +19,5 @@
 | SOCAR | 김상우 | CLOUDERA CONFERENCE 2018 | [HOW TO REDEFINE YOUR BUSINESS WITH AI](https://www.clouderasessionsseoul.com/file/Machine_Learning_3.pdf) | 모빌리티 기업에서 다루는 가장 최신의 데이터 분석 문제에 대해서 알 수 있음 | - |
 | 개인 | Seth Stephens-Davidowitz | TEDxWarwick | [The Secrets in Our Google Searches](https://www.youtube.com/watch?v=IaFQVNuAA3w) | 구글 검색 결과를 분석해 『모두 거짓말을 한다』를 쓴 저자의 테드톡 | - |   
 | 카카오 | 최규민 | if(kakao)dev 2018 | [눈으로 듣는 음악 추천 시스템](https://tv.kakao.com/channel/3150758/cliplink/391418802) | 카카오 미니에 들어가는 추천시스템의 개괄 | - |  
+| 카카오 | 이민호 | 잔디콘 | [Causal Inference : Primer](https://www.slideshare.net/lumiamitie/causal-inference-primer-20190601) | 인과 관계 추론에 대해서 소개하고 이를 위해 널리 알려진 방법도 소개함 | - |  
 |  |  |  |  | | - |  
