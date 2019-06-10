@@ -19,5 +19,6 @@
 | SOCAR | 김상우 | CLOUDERA CONFERENCE 2018 | [HOW TO REDEFINE YOUR BUSINESS WITH AI](https://www.clouderasessionsseoul.com/file/Machine_Learning_3.pdf) | 모빌리티 기업에서 다루는 가장 최신의 데이터 분석 문제에 대해서 알 수 있음 | - |
 | 개인 | Seth Stephens-Davidowitz | TEDxWarwick | [The Secrets in Our Google Searches](https://www.youtube.com/watch?v=IaFQVNuAA3w) | 구글 검색 결과를 분석해 『모두 거짓말을 한다』를 쓴 저자의 테드톡 | - |   
 | 카카오 | 최규민 | if(kakao)dev 2018 | [눈으로 듣는 음악 추천 시스템](https://tv.kakao.com/channel/3150758/cliplink/391418802) | 카카오 미니에 들어가는 추천시스템의 개괄 | - |  
-| 카카오 | 이민호 | 잔디콘 | [Causal Inference : Primer](https://www.slideshare.net/lumiamitie/causal-inference-primer-20190601) | 인과 관계 추론에 대해서 소개하고 이를 위해 널리 알려진 방법도 소개함 | - |  
+| 카카오 | 이민호 | 잔디콘 | [Causal Inference : Primer](https://www.slideshare.net/lumiamitie/causal-inference-primer-20190601) | 인과 관계 추론에 대해서 소개하고 이를 위해 널리 알려진 방법도 소개함 | - |
+| 당근마켓 | Matthew | [당근마켓 팀블로그](https://medium.com/daangn) | [딥러닝으로 동네생활 게시글 필터링하기](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%84%A4%EC%83%9D%ED%99%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-263cfe4bc58d) | 당근마켓 팀블로그 소개 & 딥러닝을 이용한 텍스트 classification 과정을 잘 보여줌 | [윤선미](https://www.linkedin.com/in/yoonsunmi/) |  
 |  |  |  |  | | - |  
